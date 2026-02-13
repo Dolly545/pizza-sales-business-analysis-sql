@@ -42,11 +42,11 @@ Order volume peaks during lunch hours (11 AM – 2 PM), indicating strong operat
 Daily and cumulative revenue trends show steady performance, supporting scalable growth potential.
 
 **Strategic Recommendations**
-Launch lunch-time promotional bundles to increase AOV
-Upsell large-size pizzas through value-driven marketing
-Bundle top-performing SKUs to expand basket size
-Optimize staffing during peak hours
-Diversify mid-performing categories to reduce revenue concentration risk
+*Launch lunch-time promotional bundles to increase AOV
+*Upsell large-size pizzas through value-driven marketing
+*Bundle top-performing SKUs to expand basket size
+*Optimize staffing during peak hours
+*Diversify mid-performing categories to reduce revenue concentration risk
 
 **Business Impact**
 
